@@ -1,6 +1,6 @@
 package by.teachmeskills.fourthlection;
+//Найти произведение элементов, кратных 3.
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
@@ -27,6 +27,7 @@ public class InClass1 {
             System.out.println();
 
         }
+        System.out.println();
         System.out.print(Arrays.deepToString(arr1));
         System.out.println();
         System.out.println("main diag sum =" + sum);

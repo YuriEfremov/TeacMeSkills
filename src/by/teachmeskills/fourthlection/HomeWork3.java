@@ -42,11 +42,11 @@ public class HomeWork3 {
         System.out.println("Main diag " + main);
         System.out.println("Add diag " + add);
         if (main == add) {
-            System.out.printf("Main diag composition %d is equal to additional diag composition %d", main, add);
+            System.out.printf("Main diag composition %d is equal to additional diag composition %d\n", main, add);
         } else {
             if (main < add) {
-                System.out.printf("Main diag composition %d is less than additional diag composition %d", main, add);
-            } else {System.out.printf("Main diag composition %d is more than additional diag composition %d", main, add);}
+                System.out.printf("Main diag composition %d is less than additional diag composition %d\n", main, add);
+            } else {System.out.printf("Main diag composition %d is more than additional diag composition %d\n", main, add);}
         }
 
     }

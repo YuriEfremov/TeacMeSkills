@@ -1,5 +1,6 @@
 package by.teachmeskills.fourthlection;
-
+//Транспонировать матрицу(1 столбец станет 1-й строкой, 2-й столбец - 2-й
+//строкой и т. д.)
 import java.util.Random;
 import java.util.Scanner;
 

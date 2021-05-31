@@ -1,5 +1,6 @@
 package by.teachmeskills.fourthlection;
-
+//Посчитать сумму четных элементов стоящих над побочной диагональю (не
+//включительно)
 import java.util.Random;
 import java.util.Scanner;
 
