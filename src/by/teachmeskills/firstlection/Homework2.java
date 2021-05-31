@@ -1,5 +1,5 @@
 package by.teachmeskills.firstlection;
-
+//Проверка возможности существования  треугольника.
 public class Homework2 {
     public static void main(String[] args) {
 
