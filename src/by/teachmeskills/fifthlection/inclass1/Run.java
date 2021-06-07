@@ -21,7 +21,7 @@ public class Run {
         System.out.println(iphone.getNumber()); //а так можно?
 
         iphone.receiveCall("Vasya", 889911);
-        //samsung.sendMessage(82564,82565,82566);
+        samsung.sendMessage(82564,82565,82566);
 
 
     }
