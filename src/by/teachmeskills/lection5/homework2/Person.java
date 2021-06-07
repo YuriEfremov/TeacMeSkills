@@ -1,4 +1,4 @@
-package by.teachmeskills.fifthlection.homework2;
+package by.teachmeskills.lection5.homework2;
 
 public class Person {
     String fullName;

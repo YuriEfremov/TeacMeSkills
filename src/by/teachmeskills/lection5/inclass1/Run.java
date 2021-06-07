@@ -1,4 +1,4 @@
-package by.teachmeskills.fifthlection.inclass1;
+package by.teachmeskills.lection5.inclass1;
 
 public class Run {
     public static void main(String[] args) {
