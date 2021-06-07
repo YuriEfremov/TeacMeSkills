@@ -1,5 +1,5 @@
 package by.teachmeskills.lection5;
-
+// Use of  class Matrix
 
 import java.util.Scanner;
 
