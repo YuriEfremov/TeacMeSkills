@@ -5,7 +5,7 @@ public class Group {
     //private String name;
     private Student[] students;
 
-    //public Group(String name, Student... students) {
+    //public Group(int num, Student... students) {
     public Group(int num, Student[] students) {
         this.num = num;
         this.students = students;
